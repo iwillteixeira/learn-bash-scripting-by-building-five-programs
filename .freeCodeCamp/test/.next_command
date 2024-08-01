@@ -137,3 +137,4 @@ nano questionnaire.sh
 nano questionnaire.sh
 ./questionnaire.sh
 echo --help
+man echo
