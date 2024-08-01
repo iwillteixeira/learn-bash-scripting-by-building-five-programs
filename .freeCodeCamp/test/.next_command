@@ -140,3 +140,4 @@ echo --help
 man echo
 nano questionnaire.sh
 nano questionnaire.sh
+./questionnaire.sh
