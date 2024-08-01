@@ -111,3 +111,8 @@ nano questionnaire.sh
 echo "echo $QUESTION1" >> questionnaire.sh
 nano questionnaire.sh
 ./questionnaire.sh
+echo teste >> questionnaire.sh
+nano questionnaire.sh
+echo echo teste >> questionnaire.sh
+nano questionnaire.sh
+echo read NAME >> questionnaire.sh
