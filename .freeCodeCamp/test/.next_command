@@ -116,3 +116,9 @@ nano questionnaire.sh
 echo echo teste >> questionnaire.sh
 nano questionnaire.sh
 echo read NAME >> questionnaire.sh
+__vsc_prompt_cmd_original
+echo echo Hello "<name>" >> questionnaire.sh
+nano questionnaire.sh
+nano questionnaire.sh
+nano questionnaire.sh
+nano questionnaire.sh
