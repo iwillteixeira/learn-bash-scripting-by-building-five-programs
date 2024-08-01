@@ -147,3 +147,4 @@ nano questionnaire.sh
 echo echo $QUESTION3
 echo echo $QUESTION3 >> questionnaire.sh
 nano questionnaire.sh
+echo read WEBSITE >> questionnaire.sh
