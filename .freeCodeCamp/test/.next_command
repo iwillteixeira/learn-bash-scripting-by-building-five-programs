@@ -150,3 +150,6 @@ nano questionnaire.sh
 echo read WEBSITE >> questionnaire.sh
 nano questionnaire.sh
 ./questionnaire.sh
+nano questionnaire.sh
+nano questionnaire.sh
+nano questionnaire.sh
