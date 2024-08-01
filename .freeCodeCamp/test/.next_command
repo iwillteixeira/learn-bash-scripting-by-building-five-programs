@@ -149,3 +149,4 @@ echo echo $QUESTION3 >> questionnaire.sh
 nano questionnaire.sh
 echo read WEBSITE >> questionnaire.sh
 nano questionnaire.sh
+./questionnaire.sh
