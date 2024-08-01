@@ -86,3 +86,5 @@ sh questionnaire.sh
 bash questionnaire.sh
 which bash
 nano questionnaire.sh
+./q
+./questionnaire.sh
