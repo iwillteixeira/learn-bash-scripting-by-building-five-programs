@@ -108,3 +108,5 @@ nano questionnaire.sh
 nano questionnaire.sh
 nano questionnaire.sh
 nano questionnaire.sh
+echo "echo $QUESTION1" >> questionnaire.sh
+nano questionnaire.sh
