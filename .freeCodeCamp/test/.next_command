@@ -156,3 +156,13 @@ nano questionnaire.sh
 ./questionnaire.sh
 touch countdown.sh
 chmod +x countdown.sh
+echo
+cat questionnaire.sh
+ls --color=auto
+cat countdown.sh
+cat countdown.sh
+echo
+cat countdown.sh
+nano countdown.sh
+cat countdown.sh
+nano countdown.sh
