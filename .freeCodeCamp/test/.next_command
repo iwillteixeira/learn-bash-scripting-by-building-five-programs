@@ -126,3 +126,6 @@ nano questionnaire.sh
 nano questionnaire.sh
 echo echo $QUESTION2 >> questionnaire.sh
 nano questionnaire.sh
+nano questionnaire.sh
+echo read LOCATION
+echo read LOCATION >> questionnaire.sh
