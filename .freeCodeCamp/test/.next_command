@@ -124,3 +124,5 @@ nano questionnaire.sh
 nano questionnaire.sh
 ./questionnaire.sh
 nano questionnaire.sh
+echo echo $QUESTION2 >> questionnaire.sh
+nano questionnaire.sh
