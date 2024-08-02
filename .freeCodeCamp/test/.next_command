@@ -212,3 +212,4 @@ nano countdown.sh
 ./countdown.sh xxx
 nano countdown.sh
 nano countdown.sh
+./countdown.sh 4
