@@ -198,3 +198,4 @@ nano countdown.sh
 echo "echo $*" >> countdown.sh
 nano countdown.sh
 ./countdown.sh
+./countdown.sh arg1 arg2 arg3
