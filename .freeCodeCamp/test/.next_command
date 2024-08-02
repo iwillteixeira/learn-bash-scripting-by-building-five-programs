@@ -195,3 +195,5 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ls --color=auto
 nano countdown.sh
+echo "echo $*" >> countdown.sh
+nano countdown.sh
