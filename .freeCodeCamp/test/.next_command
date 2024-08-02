@@ -197,3 +197,4 @@ ls --color=auto
 nano countdown.sh
 echo "echo $*" >> countdown.sh
 nano countdown.sh
+./countdown.sh
