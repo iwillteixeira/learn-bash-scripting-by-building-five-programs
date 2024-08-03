@@ -376,3 +376,4 @@ nano bingo.sh
 nano bingo.sh
 .bi
 ./bingo.sh
+I=0
