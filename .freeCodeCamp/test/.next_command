@@ -384,3 +384,5 @@ help let
 (( I += 10 ))
 echo $I
 $(( I + 4 ))
+15
+echo $(( I + 4 ))
