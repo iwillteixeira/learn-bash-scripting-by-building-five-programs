@@ -435,3 +435,4 @@ touch fortune.sh
 chmod +x fortune.sh
 nano fortune.sh
 echo "#Program to tell a persons fortune" >> fortune.sh
+nano fortune.sh
