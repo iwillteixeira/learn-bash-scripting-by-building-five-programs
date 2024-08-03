@@ -370,3 +370,4 @@ echo LANG
 echo $LANG
 declare -p
 echo $RANDOM
+nano bingo.sh
