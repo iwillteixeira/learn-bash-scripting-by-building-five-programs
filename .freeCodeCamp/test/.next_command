@@ -513,3 +513,4 @@ nano fortune.sh
 touch five.sh
 chmod +x five.sh
 nano five.sh
+echo "#Program to run my other four programs" >> five.sh
