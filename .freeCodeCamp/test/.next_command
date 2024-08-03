@@ -496,3 +496,5 @@ ls --color=auto
 [[ $VAR == \?$ ]]
 [[ $VAR =~ \?$ ]]
 [[ test? =~ \?$ ]]
+nano fortune.sh
+nano fortune.sh
