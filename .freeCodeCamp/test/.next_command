@@ -483,3 +483,4 @@ nano fortune.sh
 help [[ ? ]]
 [[ hello == hello ]]
 [[ hello == world ]]
+[[ hello =~ el ]]
