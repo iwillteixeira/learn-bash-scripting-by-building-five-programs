@@ -374,3 +374,5 @@ nano bingo.sh
 ./bingo.sh
 ./bingo.sh
 nano bingo.sh
+.bi
+./bingo.sh
