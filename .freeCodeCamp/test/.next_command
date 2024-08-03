@@ -361,3 +361,4 @@ chmod +x bingo.sh
 nano bingo.sh
 nano bingo.sh
 nano bingo.sh
+echo "NUMBER=5" >> bingo.sh
