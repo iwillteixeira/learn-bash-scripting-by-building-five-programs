@@ -365,3 +365,4 @@ echo "NUMBER=5" >> bingo.sh
 echo "echo $NUMBER" >> bingo.sh
 nano bingo.sh
 ./bingo.sh
+printenv
