@@ -377,3 +377,4 @@ nano bingo.sh
 .bi
 ./bingo.sh
 I=0
+echo $I
