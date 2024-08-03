@@ -333,3 +333,4 @@ nano countdown.sh
 help
 nano countdown.sh
 nano countdown.sh
+./countdown.sh 10
