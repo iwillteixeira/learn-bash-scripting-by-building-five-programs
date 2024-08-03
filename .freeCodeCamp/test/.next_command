@@ -492,3 +492,6 @@ VAR="hello world"
 echo $VAR
 [[ $VAR == "hello world" ]]
 [[ $VAR == "hello world" ]]
+ls --color=auto
+[[ $VAR == \?$ ]]
+[[ $VAR =~ \?$ ]]
