@@ -498,3 +498,4 @@ ls --color=auto
 [[ test? =~ \?$ ]]
 nano fortune.sh
 nano fortune.sh
+./fortune.sh
