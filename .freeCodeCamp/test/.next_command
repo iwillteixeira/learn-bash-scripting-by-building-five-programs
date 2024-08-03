@@ -438,3 +438,4 @@ echo "#Program to tell a persons fortune" >> fortune.sh
 nano fortune.sh
 ./fortune.sh
 ARR=("a" "b" "c")
+echo ${ARR[1]}
