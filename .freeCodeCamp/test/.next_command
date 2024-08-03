@@ -515,3 +515,4 @@ chmod +x five.sh
 nano five.sh
 echo "#Program to run my other four programs" >> five.sh
 echo "./questionnaire.sh" >> five.sh
+./five.sh
