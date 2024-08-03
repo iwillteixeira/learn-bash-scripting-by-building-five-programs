@@ -366,3 +366,5 @@ echo "echo $NUMBER" >> bingo.sh
 nano bingo.sh
 ./bingo.sh
 printenv
+echo LANG
+echo $LANG
