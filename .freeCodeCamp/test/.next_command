@@ -495,3 +495,4 @@ echo $VAR
 ls --color=auto
 [[ $VAR == \?$ ]]
 [[ $VAR =~ \?$ ]]
+[[ test? =~ \?$ ]]
