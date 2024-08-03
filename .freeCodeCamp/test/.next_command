@@ -444,3 +444,5 @@ echo ${ARR[@]}
 declare -p
 declare -p ARR
 nano fortune.sh
+nano fortune.sh
+nano fortune.sh
