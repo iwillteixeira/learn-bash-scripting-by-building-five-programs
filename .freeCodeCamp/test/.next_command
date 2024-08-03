@@ -408,3 +408,5 @@ echo $(( RANDOM % 75 + 1))
 nano bingo.sh
 ./bingo.sh
 ./bingo.sh
+nano bingo.sh
+nano bingo.sh
