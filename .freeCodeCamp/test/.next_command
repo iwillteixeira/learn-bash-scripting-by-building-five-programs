@@ -480,3 +480,4 @@ help until
 ./fortune.sh
 nano fortune.sh
 ./fortune.sh
+help [[ ? ]]
