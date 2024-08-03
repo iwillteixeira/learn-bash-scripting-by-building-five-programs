@@ -481,3 +481,4 @@ help until
 nano fortune.sh
 ./fortune.sh
 help [[ ? ]]
+[[ hello == hello ]]
