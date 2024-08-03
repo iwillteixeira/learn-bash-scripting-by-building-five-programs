@@ -519,3 +519,4 @@ echo "./questionnaire.sh" >> five.sh
 echo "./countdown.sh 3" >> five.sh
 echo "./bingo.sh" >> five.sh
 echo "./fortune.sh" >> five.sh
+clear
