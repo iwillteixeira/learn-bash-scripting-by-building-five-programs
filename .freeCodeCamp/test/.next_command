@@ -522,3 +522,4 @@ echo "./fortune.sh" >> five.sh
 clear
 ./five.sh
 help
+help type
